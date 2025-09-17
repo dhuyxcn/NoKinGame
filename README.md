@@ -30,4 +30,6 @@ project game nonok king game
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dhuyxcn/NoKinGame)
 ![GitHub License](https://img.shields.io/github/license/dhuyxcn/NoKinGame)
 
+## <a href="#"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXQ5dmd6YmptbTk5bnh4MDZiYmhkNGZhMzd1dGhybzFjNjR2b3p5eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/sUvXqhA9nukbIM0MyO/giphy.gif" width="70"> </a> Assets :
 
+- [Samurai Pixel Art 2D](https://xzany.itch.io/samurai-2d-pixel-art)
