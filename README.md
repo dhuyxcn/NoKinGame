@@ -12,17 +12,22 @@ project game nonok king game
 
 - [Godot Engine](https://godotengine.org)
 
+## <a href="#"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDkzdzBhbjRva3d0b295dGdyc3FvaHphZHFrcDV1ZHB2bjRzNGhoOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/kAm4u0lhDCmXnugz6p/giphy.gif" width="70"> </a> Language : 
+
+![GitHub top language](https://img.shields.io/github/languages/top/dhuyxcn/NoKinGame)
 
 ## <a href="#"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRhMzk2d2l6OTI4Z2Jham5lZnN6b2xxNjM4MXl1bzN5aG50ZDI3MiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/23D8NR89IoZUC9jgsO/giphy.gif" width="70"> </a> Kontributor :
 - [@dhuyxcn](https://github.com/dhuyxcn)
 - [@Dpler](https://github.com/Dplerr)
-- [@Dhuyxcn](https://github.com/dhuyxcn)
+- [@RandyLab](https://github.com/RandyLab)
 
 [![Contributors](https://img.shields.io/github/contributors/dhuyxcn/NoKinGame.svg)](https://github.com/dhuyxcn/NoKinGame/graphs/contributors)
 
 ## <a href="#"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Zjk4ejF6Mm8zM3k2bm9kM2hhNmNteG9qeTZ2ems2NjMyc2k3aDd5OSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IzLejEn5juzsLN4AqX/giphy.gif" width="70"> </a> insight :
 
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/dhuyxcn/NoKinGame/total)
+![GitHub last commit](https://img.shields.io/github/last-commit/dhuyxcn/NoKinGame)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dhuyxcn/NoKinGame)
-![GitHub contributors](https://img.shields.io/github/contributors/dhuyxcn/NoKinGame)
+![GitHub License](https://img.shields.io/github/license/dhuyxcn/NoKinGame)
 
 
